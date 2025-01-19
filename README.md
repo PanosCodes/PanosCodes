@@ -11,6 +11,7 @@ Welcome to my GitHub corner of the internet! I'm a **software engineer** who lov
 
 ### 📕 Sometimes I write
 <!-- BLOG-POST-LIST:START -->
+- [Experimenting with Server-Driven UIs](https://logs.panos.codes/code-explorations/experimenting-with-server-driven-uis/)
 - [CLI::UI hidden gems 💎](https://logs.panos.codes/code-explorations/cli-ui-hidden-gems/)
 - [Failing RSpec `have_attributes` with arguments matchers](https://logs.panos.codes/code-explorations/failing-rspec-have_attributes-with-arguments-matchers/)
 - [MutationObserver, keep an eye for DOM changes 🧐](https://logs.panos.codes/code-explorations/mutation-observer/)
