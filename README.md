@@ -25,7 +25,7 @@ Welcome to my GitHub corner of the internet! I'm a **software engineer** who lov
 
 ### 🚀 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosCodes&theme=nord&hide_rank=true&card_width=500&hide_title=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=PanosCodes&theme=nord&hide_rank=true&card_width=500&hide_title=true)
 
 Thanks for stopping by! 👋
 
