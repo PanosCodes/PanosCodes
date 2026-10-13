@@ -11,11 +11,11 @@ Welcome to my GitHub corner of the internet! I'm a **software engineer** who lov
 
 ### 📕 Sometimes I write
 <!-- BLOG-POST-LIST:START -->
-- [Experimenting with Server-Driven UIs](https://logs.panos.codes/code-explorations/experimenting-with-server-driven-uis/)
-- [CLI::UI hidden gems 💎](https://logs.panos.codes/code-explorations/cli-ui-hidden-gems/)
-- [Failing RSpec `have_attributes` with arguments matchers](https://logs.panos.codes/code-explorations/failing-rspec-have_attributes-with-arguments-matchers/)
-- [MutationObserver, keep an eye for DOM changes 🧐](https://logs.panos.codes/code-explorations/mutation-observer/)
-- [Killing n+1 problems using groups](https://logs.panos.codes/code-explorations/killing-n1-using-groups/)
+- [Experimenting with Server-Driven UIs](https://logs.panos.codes/logs/2025/experimenting-with-server-driven-uis/)
+- [CLI::UI hidden gems 💎](https://logs.panos.codes/logs/2024/cli-ui-hidden-gems/)
+- [Failing RSpec `have_attributes` with arguments matchers](https://logs.panos.codes/logs/2023/failing-rspec-have_attributes-with-arguments-matchers/)
+- [MutationObserver, keep an eye for DOM changes 🧐](https://logs.panos.codes/logs/2022/mutation-observer/)
+- [Killing n+1 problems using groups](https://logs.panos.codes/logs/2021/killing-n1-using-groups/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌍 Connect with me
