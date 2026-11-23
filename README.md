@@ -11,11 +11,11 @@ Welcome to my GitHub corner of the internet! I'm a **software engineer** who lov
 
 ### 📕 Sometimes I write
 <!-- BLOG-POST-LIST:START -->
+- [Small rows, big components](https://logs.panos.codes/logs/2026/small-rows-big-components/)
 - [Receipts for your AI workflows](https://logs.panos.codes/logs/2026/some-thoughts-on-agent-visibility/)
 - [Experimenting with Server-Driven UIs](https://logs.panos.codes/logs/2025/experimenting-with-server-driven-uis/)
 - [CLI::UI hidden gems 💎](https://logs.panos.codes/logs/2024/cli-ui-hidden-gems/)
 - [Failing RSpec `have_attributes` with arguments matchers](https://logs.panos.codes/logs/2023/failing-rspec-have_attributes-with-arguments-matchers/)
-- [MutationObserver, keep an eye for DOM changes 🧐](https://logs.panos.codes/logs/2022/mutation-observer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌍 Connect with me
